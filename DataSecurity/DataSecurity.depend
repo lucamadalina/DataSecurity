@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1542742986 source:c:\users\madal_000\desktop\datasecurity\datasecurity\main.c
+	<stdio.h>
+	<string.h>
+
+1542743049 source:c:\users\madal_000\desktop\datasecurity\datasecurity\vigenere.c
+
